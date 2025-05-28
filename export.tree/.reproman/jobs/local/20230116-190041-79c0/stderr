@@ -1,0 +1,13 @@
+WARNING (01/16/23 19:00:59): LAUNCHER_WORKDIR variable not set. Using current directory.
+using /tmp/launcher.5139116.hostlist.nuQLSZtI to get hosts
+starting job on c107-061
+starting job on c107-062
+starting job on c107-063
+starting job on c107-064
+starting job on c107-071
+slurmstepd: error: *** JOB 5139116 ON c107-061 CANCELLED AT 2023-01-17T03:01:09 DUE TO TIME LIMIT ***
+Killed by signal 15.
+Killed by signal 15.
+Killed by signal 15.
+Killed by signal 15.
+Terminated
